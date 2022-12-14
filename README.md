@@ -1,4 +1,4 @@
-<h1 align= "center" dir="auto"> Welcome to <a href="https://esena.herokuapp.com/">Esena</a>! </h1> <a name="top"> </a>
+<h1 align= "center" dir="auto"> Welcome to <a href="https://esena.onrender.com/">Esena</a>! </h1> <a name="top"> </a>
 <h5 align= "center" dir="auto">
   Creators:
       <a href="https://github.com/ethanchen7">Ethan Chen</a>
@@ -10,7 +10,7 @@
       <a href="https://github.com/xwnnie">Xiaowen Nie</a>
    </br>
    </br>
-   <a href="https://esena.herokuapp.com/">» Live Link «</a>
+   <a href="https://esena.onrender.com/">» Live Link «</a>
 </h5>
 <h4 align= "center" dir="auto">
   <a href="https://github.com/vee-alianza/Esena/wiki">» Explore the Wiki «</a>
